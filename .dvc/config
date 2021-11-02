@@ -1,0 +1,4 @@
+[core]
+    remote = dvcdatabase
+['remote "dvcdatabase"']
+    url = /home/emir/dvcDataBase
